@@ -248,7 +248,7 @@ if (!empty($_GET['download'])) {
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="shortcut icon" href="https://raw.githubusercontent.com/Hi-Mad/exploits/main/gecko.png" type="image/x-icon">
+    <link rel="shortcut icon" href="https://raw.githubusercontent.com/MadExploits/exploits/main/gecko.png" type="image/x-icon">
     <title>Gecko :: <?= $_SERVER['SERVER_NAME']; ?> ::</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
